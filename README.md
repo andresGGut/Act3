@@ -1,4 +1,4 @@
-# Original de pacman.py
+# Original de pacman.py extraido de freegames
 
 # Se mejoró la inteligencia de los fantasmas, haciendo que busquen la ruta mas corta para acercarse a pacman
 
