@@ -2,4 +2,6 @@
 
 # Se mejoró la inteligencia de los fantasmas, haciendo que busquen la ruta mas corta para acercarse a pacman
 
-# Se modificó el tablero y la velocidad de los fantasmas
+# Se modificó el tablero
+
+# Se modificó la velocidad de los fantasmas
